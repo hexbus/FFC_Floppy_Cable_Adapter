@@ -1,7 +1,7 @@
 # FFC Floppy Cable Adapter (Flexible FFC)
 1.25mm to 1mm Floppy FFC Cable (Flexible FFC)
 
-[Picture](https://github.com/hexbus/FFC_Floppy_Cable_Adapter/blob/main/ffc%20picture.png)
+![Picture](https://github.com/hexbus/FFC_Floppy_Cable_Adapter/blob/main/ffc%20picture.png)
 
 ## Background:
 
