@@ -26,3 +26,7 @@ Arguments you need to set up when ordering these cables:
 
 ## Usage
 Please see the attached license.  Feel free to use and remix as needed.
+
+## Donations
+Are not needed, but feel free to send me some coffee money or something **$acadiel** on Cash App or **acadiel** on Venmo.
+
