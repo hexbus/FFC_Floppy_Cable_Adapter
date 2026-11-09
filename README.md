@@ -3,6 +3,15 @@
 
 ![Picture](https://github.com/hexbus/FFC_Floppy_Cable_Adapter/blob/main/ffc%20picture.png)
 
+## PCB ordering
+
+- **[Download the flex fabrication archive](https://github.com/hexbus/FFC_Floppy_Cable_Adapter/raw/refs/heads/main/26-pin-1.00-1.25-single%20layer.zip)**
+- **[Open JLCPCB using my referral link](https://jlcpcb.com/?from=RVDYTTLKZHK)**
+
+Extract the archive and package the fabrication files from its `Gerber/` and `NC Drill/` folders for upload through JLCPCB's flex-PCB quotation process. This is a flexible cable: the documented requirements are **150 × 33.75 mm, 1 layer, 0.1 mm thickness, and a 0.2 mm bottom stiffener**. Confirm JLCPCB can meet those requirements before ordering; do not use ordinary rigid-PCB defaults.
+
+The referral link does not upload files automatically. I may receive referral rewards for qualifying new users.
+
 ## Background:
 
 This is a floppy drive flexible FFC cable that I had constructed to adapt older 1.25mm 26 pin FFC floppy drive connectors to newer servo-driven 1.00mm 26 pin FFC floppy drives.
